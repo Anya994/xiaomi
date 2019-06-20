@@ -1,0 +1,57 @@
+* {
+  padding: 0;
+  border: 0;
+  outline: 0;
+}
+html {
+  overflow-x: hidden;
+  font: inherit
+}
+
+.wrapper {
+ max-width: 800px;
+  margin: auto;
+}
+.flex-caption {
+  width: 100%;
+  padding: 2%;
+  left: 0;
+  bottom: 0;
+  background: rgba(0,0,0,.5);
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0,0,0,.3);
+  font-size: 14px;
+  line-height: 18px;
+}
+li.css a {
+  border-radius: 0;
+}
+#page {
+  width: 100%;
+  padding: 1em;
+}
+.sliders img {
+ float: left;
+  list-style: outside none none;
+  position: relative;
+  width: 759px;
+  margin-right: 50px;
+}
+.wrapper img {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.fullpic {
+  padding-left: 200px;
+  padding-top: 68px;
+  max-width: 1200px
+}
+.fullpic2{
+  max-width: 1277px;
+  float: right;
+  margin-top: 62px;
+}
+/* #main-slider {
+ overflow: hidden
+} */
